@@ -1,0 +1,82 @@
+Current Topics are :[u'NASA'][u'Elon Musk'][u'Ted Cruz'][u'Goose'][u'Sea turtles'][u'Hawaii'][u'Sarah Brightman'][u'Research'][u'Aerosol'][u'European Space Agency']
+
+Title : [u"Forget 'On Record,' 2014 May Have Been Warmest Year In Last 5000"]
+Image : [u'//t0.gstatic.com/images?q=tbn:ANd9GcS5aqVAB2BKV3vqB88LGrRn2-tqtO7RSTrDnzPvzkRYmioTDAudqH_MgPM4DctrouyTgFC_sj2SBIw']
+Desc : [u'Last week NASA and NOAA released a preliminary analysis claiming that last year was the warmest since record-keeping began in 1880, based on globally averaged temperature data collected from a network of land and water surface sensors.']
+
+Title : [u'Infinitesimal Laser Pushes Quantum Computing Forward']
+Image : [u'//t0.gstatic.com/images?q=tbn:ANd9GcTRbOi6dtlYSo5wkbtavELMAt-EWi14Po7VsRZcYNHLtdLZ-p5CwLCYohTPml1ltpaclPHEllZXils']
+Desc : [u'Infinitesimal Laser Pushes Quantum Computing Forward Contracting the scale of semiconductor constituents to help construct compelling quantum-computing frameworks has turned out to be a genuine frown-cause for researchers.']
+
+Title : [u"'Planets on Solar System's fringes'"]
+Image : [u'//t0.gstatic.com/images?q=tbn:ANd9GcQhpBnD8E7hswNOwV2Ixg4-V9a8eFOdwPozC7UtZbCUe9FKeA5fZsVGRuQSOIzaG3tWrSINpfRC0yE']
+Desc : [u'At least two as-yet undiscovered planets as big as Earth or larger may be hiding in the outer fringes of the Solar System, scientists believe.']
+
+Title : [u"Rich nations aren't immune from devastating effects of climate change, study warns"]
+Image : [u'//t3.gstatic.com/images?q=tbn:ANd9GcQCOimgsoAekGqFVxWg6Ue1ACdwKrUWm-u_aNyyprE1qL9MF-5kw-Cq4iz1OPYR13Jv1KRMZyO5BB4']
+Desc : [u'The study comes just before envoys from 190 nations are set to meet to hammer out a plan to save the Earth from climate change. Science Recorder Pro.']
+
+Title : [u'Dolphins And Seals Put Their Hearts At Risk While Deep-Diving']
+Image : []
+Desc : [u'Dolphins And Seals Put Their Hearts At Risk While Deep-Diving Dolphins and seals put their hearts at risks while deep-diving and may be living on the edge, as indicated by a paper published in Nature Communications.']
+
+Title : [u"Scientists celebrate tenth anniversary of Huygens' Titan landing"]
+Image : []
+Desc : [u"Scientists recently celebrated the tenth anniversary of Huygens probe's historic landing on Titan - Saturn's largest moon."]
+
+Title : [u'Elon Musk to build Hyperloop test track, internet satellites']
+Image : []
+Desc : [u"Elon Musk's ambition is out of this world. Musk announced last week that he is planning to build a Hyperloop test track and that he wants to build internet-providing satellites in space that can reach Mars."]
+
+Title : [u'NASA discovers a star with 3 planets larger than Earth']
+Image : []
+Desc : [u"NASA has discovered a star which has three planets that are larger than the size of Earth. The discovery has been made by NASA's Kepler space telescope."]
+
+Title : [u'Astronauts from US and Russia to go on One Year Space Mission']
+Image : []
+Desc : [u'In another joint mission in space of the US and Russia, American Astronaut Scott Kelly and Russian Cosmonaut Mikhail Kornienko will spend 12 months on the ISS (International Space Station) starting in this year in the month of March, confirms NASA.']
+
+Title : [u'Sea turtles use magnetic fields to find their birth place']
+Image : []
+Desc : [u'along the coast, according to new evidence from the University of North Carolina at Chapel Hill. \u201cSea turtles migrate across thousands of miles of ocean before returning to nest on the same stretch of coastline where they hatched, but how they do this has\xa0...']
+
+Title : [u'The geese that can conquer Mount Everest']
+Image : []
+Desc : [u"A tracking study has revealed the secrets of the Himalayan flight of the bar-headed goose - the world's highest bird migration."]
+
+Title : [u"Ted Cruz's chairmanship of Senate science panel triggers alarm among "]
+Image : []
+Desc : [u"Texas Republican Senator Ted Cruz's chairmanship of Senate subcommittee that oversees NASA and science has triggered alarm bells among some environmental groups."]
+
+Title : [u'Researchers discover what causes earthy, post-rain smell']
+Image : []
+Desc : [u'MIT researchers have claimed to have discovered the reason behind the familiar earthy scent that is often noticed after rain. The researchers said that the ground releases its fragrance into the air after rain water hits different materials, particularly soil, moss\xa0...']
+
+Title : [u'MIT researchers develop technique for better study of minute tissues']
+Image : []
+Desc : [u'Researchers at the Massachusetts Institute of Technology (MIT) have analyzed the technology that makes baby diapers so absorbent under microscopes as part of the effort to access fine details with super-resolution imaging.']
+
+Title : [u"2014: Earth's Hottest Year Since 1880"]
+Image : []
+Desc : [u"The year 2014 was the warmest world-wide since 1880, and nine of the ten warmest years on record have occurred since 2000. WSJ's Robert Lee Hotz reports on the News Hub."]
+
+Title : [u'Hawaii crew fighting to control two brushfires from molten lava']
+Image : []
+Desc : [u'Firefighters have been fighting to control two brushfires that were caused by molten lava that continues to pose a risk to the Big Island village.']
+
+Title : [u"This Week's Sky at a Glance, January 16 \u2013 24"]
+Image : []
+Desc : [u"Comet Lovejoy as imaged on December 30th by Alan Tough using a 4-inch f/5 refractor. Comet Lovejoy is still at its predicted brightest this week, and it's high in the evening sky with no Moon yet."]
+
+Title : [u'Found in space']
+Image : []
+Desc : [u"It's been quite a week for lost and found. Beagle 2, a space probe missing for 12 years, has been rediscovered on Mars. Nasa's Mars Reconnaissance Orbiter has transmitted images of Beagle 2 sitting on the surface of the Red Planet, three miles away from\xa0..."]
+
+Title : [u'Sarah Brightman to go on 10-Day Trip to ISS']
+Image : []
+Desc : [u'NASA has recently revealed that British Singer Sarah Brightman is expected to fly for the International Space Station (ISS) in October.']
+
+Title : [u'State looking for input on invasive aquatic species rules']
+Image : []
+Desc : [u"PIERRE, S.D. (AP) _ New rules are in the works to try to slow the spread of invasive species in South Dakota's waterways. The South Dakota Game Fish and Parks Commission proposed several regulations to prevent their introduction and slow the spread of\xa0..."]
+

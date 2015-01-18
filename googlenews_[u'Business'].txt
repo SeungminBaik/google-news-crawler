@@ -1,0 +1,90 @@
+Current Topics are :[u'Swiss franc']
+[u'FXCM']
+[u'European Central Bank']
+[u'Uber']
+[u'Bob Iger']
+[u'Precision Castparts Corp.']
+[u'PepsiCo']
+[u'Reno']
+[u'New York City']
+[u'Baker Hughes']
+Title : [u'Alaska faces tough decisions, drastic budget cuts, dipping into savings as oil ']
+Image : [u'//t3.gstatic.com/images?q=tbn:ANd9GcTMe6r6FJN-HWrMg8TFVzXoek2AHdH_rKx42w7XZAUPGjt15WTEdLCQAzcjODJJFx8aBFA2BJkH2QY']
+Desc : [u'JUNEAU, Alaska - After years of being flush with oil money, Alaska now faces drastic budget cuts and having to dip into well-stocked savings to offset unprecedented deficits exacerbated by an unexpected plunge in oil prices.']
+
+Title : [u'US forecast: Expect oil to stay cheap for awhile']
+Image : [u'//t3.gstatic.com/images?q=tbn:ANd9GcRD4puhZ-h6YQMyWU-gFZTDdhpTb-_ZaSYiQZCcjwsge4ox3Kb5tfShF0mcoaE3dGCPKoqw7FJQkA']
+Desc : [u'WASHINGTON - The federal government forecasts that low oil prices will continue through the year as a result of the global petroleum glut.']
+
+Title : [u'Why the ECB should not water down a QE programme']
+Image : [u'//t0.gstatic.com/images?q=tbn:ANd9GcSaTqI4sR00oJdPn_9KCUz-OzwtMyNdrVVpfSrumoOXArHDtUg5AIp8b-nF52wiI6F-9Ln2Jsdtmg']
+Desc : [u'Quantitative easing is, they say, \u201cpriced in by the markets\u201d. The European Central Bank will almost certainly announce a decision to buy sovereign bonds on Thursday.']
+
+Title : [u'Swiss finance minister says economy will withstand loss of cap']
+Image : [u'//t3.gstatic.com/images?q=tbn:ANd9GcSgjZbO39Ou6GS6B5yCKSJL3suGJaKCGTVZfxe3EtVOGdAcSeysXMvCfDWdAYGxikfOVZfyBItxx5M']
+Desc : [u'ZURICH (Reuters) - Swiss officials sought to reassure the country on Sunday that a shock decision by the central bank to scrap its cap on the franc would not destabilize the economy ahead of a crucial week in which the European Central Bank could\xa0...']
+
+Title : [u'Goldman Sachs caps dire earnings week']
+Image : []
+Desc : [u"NOT even Goldman Sachs could break the string of disappointing bank earnings reports. The Wall Street bank capped a bad week for financial companies' earnings, posting a drop in quarterly profits driven by middling performance from its debt traders."]
+
+Title : [u'JetBlue: Flight Forced To Abort Takeoff At JFK Airport']
+Image : []
+Desc : [u'FILE - JetBlue planes sit at their gates at John F. Kennedy Airport. (Credit: Getty Images). Related Tags: Caribbean Airways, JetBlue, John F. Kennedy International Airport.']
+
+Title : [u'Taxpayers can expect fewer audits, but delayed refunds']
+Image : []
+Desc : [u'If the threatened shutdown at the Internal Revenue Service goes ahead, the tiny percentage of individual tax returns that gets audited is likely to shrink even further.']
+
+Title : [u'Last-ditch FXCM bailout saves investors from steeper losses']
+Image : []
+Desc : [u'HUNDREDS of Australian investors narrowly avoided even steeper losses after global currency trading house FXCM received an eleventh-hour bailout from New York-based investment bank Jefferies, that will allow it to meet its regulatory capital\xa0...']
+
+Title : [u"Iran minister's Saudi visit delayed due to oil price fall: Tehran"]
+Image : []
+Desc : [u"DUBAI (Reuters) - Iran's Foreign Minister Mohammad Javad Zarif has postponed a visit to Saudi Arabia in protest against Riyadh's reluctance to cut oil production, a senior Iranian official said on Sunday."]
+
+Title : [u'Facebook Is Growing Its Virtual Reality And Drone Programs']
+Image : []
+Desc : [u'By Alexei Oreskovic and Bill Rigby SAN FRANCISCO/SEATTLE (Reuters) - Virtual reality goggles, drones and data centers are all driving a hiring spree at Facebook Inc that is set to swell its ranks as much as 14 percent in the near term, according to a review\xa0...']
+
+Title : [u'Hunts Point Market Workers will not go on strike as workers and management ']
+Image : []
+Desc : [u'The largest wholesale produce market in the country may just have averted a strike as the management and workers seem to have struck a provisional agreement for wage contract.']
+
+Title : [u'Disney chief Iger nets $US46m']
+Image : []
+Desc : [u"WALT Disney chief executive Robert Iger's compensation shot up 35 per cent last fiscal year, to a total of $US46.5 million, according to a regulatory filing on Friday."]
+
+Title : [u'Precision Castparts: A Long-Term Buy On The Pullback (PCP)']
+Image : []
+Desc : [u'Precision Castparts is a quality company with tremendous contracts in place in the aerospace industry, which accounts for nearly 70% of company revenue.']
+
+Title : [u'Crude Prices Stabilise: Dead Cat Bounce?']
+Image : []
+Desc : [u'crude, oil prices, options expiration, Crude futures gained in Asian morning session on the back of the dovish statements from the Federal Reserve about gradual hike in interest rates and a slightly bullish US crude inventory report.']
+
+Title : [u'Uber ordered to shut shop in South Carolina']
+Image : []
+Desc : [u'Cab sharing service Uber, which has been in the news for all the wrong reasons lately has been dealt yet another blow. Regulators in South Carolina have ordered the service to cease operating in the state, as it remains in the process of seeking legal\xa0...']
+
+Title : [u'Switch plans $1 billion Las Vegas expansion']
+Image : []
+Desc : [u'Las Vegas-based computing giant Switch Communications is about to get a lot larger.Organization blueprints to make a $1 billion, three million square-foot information center close to Reno produced a splash as aspect of Gov.']
+
+Title : [u'Gas prices plummet, pockets plump']
+Image : []
+Desc : [u"With the drop in gasoline prices, Bob Jones of Sandwich buys a tank full of gas at Casey's, 902 E. Church St. in Sandwich. Caption."]
+
+Title : [u'Peltz adviser to join Pepsi board']
+Image : []
+Desc : [u"Bill Johnson, a former Heinz CEO and now an advisory partner with Peltz's hedge fund, William Johnson, has joined the Pepsi board."]
+
+Title : [u'Tiny Cokes: Less guilt means more money for makers']
+Image : []
+Desc : [u'A 7.5-ounce can of Coca-cola, right, is posed next to a 12-ounce can for comparison, Monday, Jan. 12, 2015 in Philadelphia. As people cut back on soda, the two beverage giants, Coke and Pepsi, are increasingly pushing smaller cans and bottles they say\xa0...']
+
+Title : [u'Oil, gas rig count falls; jobs prediction grim']
+Image : []
+Desc : [u'The number of oil and natural gas rigs operating in the U.S. this week took the biggest tumble in more than six years, according to the latest report from Baker Hughes Inc. As the Houston oilfield services giant released its weekly rig count report Friday, the\xa0...']
+
